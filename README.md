@@ -1,4 +1,4 @@
-## Hello there, Welcome!!!
+## Hello there, Welcome!
 Here you'll find my journey through various coding projects, experiments, and contributions. I'm always learning and excited to collaborate, so feel free to connect!
 
 
