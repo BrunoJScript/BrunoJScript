@@ -2,6 +2,9 @@
 Here you'll find my journey through various coding projects, experiments, and contributions. I'm always learning and excited to collaborate, so feel free to connect!
 
 - 🔭 I’m currently working on a few <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  <img align="center" alt="-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" /> <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> projects.
+- 👨‍💻 
+- ⌨️ 🖥️ 
+- 🤓
 <!--
 **BrunoJScript/BrunoJScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
