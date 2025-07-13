@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 <div style="display: inline_block"><br>
     <img align="center" alt="-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
     <img align="center" alt="-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
    
           
     
-             
+ ---          
 </div>
