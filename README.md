@@ -1,4 +1,6 @@
+
 ## Hello there, Welcome!
+---
 Here you'll find my journey through various coding projects, experiments, and contributions. I'm always learning and excited to collaborate, so feel free to connect!
 
 🔭 I’m currently working on a few <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  <img align="center" alt="-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" /> <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> projects.
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
     <img align="center" alt="-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
