@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+---
 <div style="display: inline_block">
     <img align="center" alt="-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
     <img align="center" alt="-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
